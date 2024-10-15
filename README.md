@@ -1,2 +1,0 @@
-# MFC-Programing
-Visual Programing
